@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 function AboutPage() {
   return (
     <Layout>
-      <SEO title="About" />
+      <SEO title="About" description="About NaaZBook" />
       <h1>About Us</h1>
       <p>iamsafnas@gmail.com</p>
     </Layout>
