@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),o=a("Bl7J"),u=a("vrFN");t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(u.a,{title:"About",description:"About NaaZBook"}),l.a.createElement("h1",null,"About Us"),l.a.createElement("p",null,"iamsafnas@gmail.com"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-d5e3c477e1f5b377bb25.js.map

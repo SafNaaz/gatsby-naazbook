@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/post-two","result":{"data":{"markdownRemark":{"html":"<p>This is my second blog post in Gatsby</p>","frontmatter":{"path":"/post-two","title":"My Second Gatsby Post","author":"Safnas","keywords":"bla ble bloo","description":"description about second blog post","date":"2020-06-05"}}},"pageContext":{}}}

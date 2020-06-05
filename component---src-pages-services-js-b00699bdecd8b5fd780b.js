@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{wCYt:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),c=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Services",description:"All Services provided by Safnas"}),l.a.createElement("h1",null,"Services"),l.a.createElement("p",null,"Programming.."),l.a.createElement("p",null,"Just about eveything related to Tech.."))}}}]);
+//# sourceMappingURL=component---src-pages-services-js-b00699bdecd8b5fd780b.js.map
