@@ -1,6 +1,6 @@
 ---
 path: "/post-two"
-data: "2020-06-05"
+date: "2020-06-05"
 title: "My Second Gatsby Post"
 author: "Safnas"
 ---
